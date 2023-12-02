@@ -20,7 +20,7 @@ PDFtoMD is a tool designed to convert PDF files into Markdown (.md) format. Spec
 Contributions to PDFtoMD are welcome. Please feel free to fork the repository, make changes, and submit pull requests.
 
 ## License
-(Include license information here, if applicable)
+For more details on the [License](https://github.com/Sam-Hedges/PDFtoMD/blob/main/PDFtoMD/Program.cs).
 
 ## Acknowledgements
 - Wondershare Dr.Fone for the initial PDF generation from Apple Notes.
